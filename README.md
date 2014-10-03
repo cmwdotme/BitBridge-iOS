@@ -16,3 +16,9 @@ Prerequisites:
 * An Apple Dev Licence.
 * An Enterprise Licence
 * Having a jailbroken phone.
+
+Setup
+=====
+1. Open project in Xcode.
+2. Select your phone in the dropdown.
+3. Build and run.
